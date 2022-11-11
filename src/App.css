@@ -24,6 +24,15 @@
   color: white;
 }
 
+.img {
+  border-radius: 50%;
+  border-width: 5px;
+  border-color: azure;
+  width: 60px;
+  height: 63px;
+}
+
+
 .App-link {
   color: #61dafb;
 }
